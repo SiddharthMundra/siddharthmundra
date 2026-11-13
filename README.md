@@ -1,8 +1,3 @@
-
-<div align="center">
-
-<img src="https://github.com/SiddharthMundra.png" alt="Siddharth Mundra" width="150" height="150" />
-
 # Siddharth Mundra
 
 **Software Engineer | AI/ML | Backend & Systems Engineering**
