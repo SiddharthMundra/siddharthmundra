@@ -15,8 +15,6 @@ Software Engineer at Geocon Incorporated
 
 </div>
 
----
-
 ## About Me
 
 I'm a Computer Science graduate from UC San Diego and currently work as a Software Engineer at Geocon Incorporated, where I develop production AI applications, backend services, internal tools, and automation systems.
