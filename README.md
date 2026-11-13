@@ -10,8 +10,7 @@ B.S. Computer Science, University of California San Diego, 2026
 Software Engineer at Geocon Incorporated
 
 [Portfolio](https://siddharthmundra.github.io/) |
-[GitHub](https://github.com/SiddharthMundra) |
-[Email](mailto:mundra.siddharth04@gmail.com)
+[Email](mailto:sidmundra1@gmail.com)
 
 </div>
 
@@ -145,7 +144,5 @@ I'm particularly interested in the intersection of software, artificial intellig
 
 **Portfolio:** [siddharthmundra.github.io](https://siddharthmundra.github.io/)
 
-**GitHub:** [github.com/SiddharthMundra](https://github.com/SiddharthMundra)
-
-**Email:** [mundra.siddharth04@gmail.com](mailto:mundra.siddharth04@gmail.com)
+**Email:** [sidmundra1@gmail.com](mailto:sidmundra1@gmail.com)
 
